@@ -1,0 +1,488 @@
+/*extra small device*/
+@media (max-width: 575.98px) {
+    
+    
+    .navbar-dark .navbar-brand {
+    margin-left: 10px;
+}
+    .navbar-toggler {
+    background-color: #444444;
+        margin-right: 10px;
+}
+.navbar-collapse {
+    background: #d7ebfe;
+}    
+  
+  .navbar-dark .navbar-nav .nav-link:before {
+     position: none; 
+    content: "";
+    background: #3a85c9;
+    width: 0;
+    height: 0px;
+    top: -37px;
+    left: 0;
+    transition: all linear .4s;
+}  
+button:focus {
+    outline: 0px auto -webkit-focus-ring-color;
+}
+ .navbar-dark .fa-search {
+    margin-left: 25px;
+}   
+    .banner_left {
+    text-align: center;
+}
+ .banner_left h3 {
+    font-size: 35px;
+}   
+.banner_left h1 {
+    font-size: 35px;
+}  
+ .features_top h3 {
+    font-size: 25px;
+}   
+ 
+ .features_top {
+    margin-bottom: 10px;
+}  
+       
+.features_bottom .fa-tree {
+    font-size: 35px;
+}    
+ .mt-5, .my-5 {
+    margin-top: 0rem!important;
+}   
+ .pt-5, .py-5 {
+    padding-top: 0rem!important;
+}  
+.features_bottom.active {
+    margin-bottom: 15px;
+    padding: 15px 0px;
+}    
+    .features_top p{
+        padding: 0 0;
+    }  
+    
+ #features {
+    padding: 15px 0px;
+     text-align: center;
+}   
+.features_img {
+    margin-top: 5%;
+}    
+.mt-4, .my-4 {
+     margin-top: 1rem!important; 
+} 
+ #about_instacam {
+    padding: 30px 0;
+}   
+ .about_text h3 {
+    font-size: 25px;
+}   
+ #queston {
+    padding: 20px 0 20px 0;
+}   
+ .about_form {
+    padding: 20px 15px;
+}   
+ .about_form a {
+    padding: 5px 85px;
+}   
+ .about_form h3 {
+    font-size: 20px;
+}   
+#product {
+    padding: 0px 0 10px 0;
+}    
+ .product_top_text h3 {
+    font-size: 20px;
+}   
+ .product_top_text p {
+     margin-bottom: 10px;
+     padding: 0 0;
+}   
+ .product_img img {
+    margin-bottom: 20px;
+}   
+ .testimonial_top h3 {
+    font-size: 25px;
+}   
+ .testimonial_top p {
+    font-size: 14px;
+}   
+.testimonial_top p {
+    margin-bottom: 10px;
+    padding: 0 0;
+}    
+.testimonial_bottom {
+    margin-bottom: 10px;
+}    
+    
+.t_b_text {
+    padding: 25px 0px;
+}    
+    
+ #testimonial {
+    margin-bottom: 20px;
+}   
+ .news_top h3 {
+    font-size: 25px;
+}   
+ .news_top p {
+    font-size: 10px;
+}   
+ .icon_text p {
+    font-size: 9px;
+}   
+ .footer_logo {
+    margin-bottom: 40px;
+}   
+ .follow h3 {
+    margin-top: 30px;
+}   
+ .follow_service a {
+    font-size: 14px;
+}   
+ .follow_copy p {
+    font-size: 11px;
+}   
+ .follow_service {
+    margin-bottom: 20px;
+}   
+    
+}
+/*small device*/
+@media(min-width:576px) and (max-width:767.98px){
+    
+    
+    .navbar-toggler {
+    background-color: #444444;
+}
+.navbar-collapse {
+    background: #d7ebfe;
+}    
+  
+  .navbar-dark .navbar-nav .nav-link:before {
+     position: none; 
+    content: "";
+    background: #3a85c9;
+    width: 0;
+    height: 0px;
+    top: -37px;
+    left: 0;
+    transition: all linear .4s;
+}  
+button:focus {
+    outline: 0px auto -webkit-focus-ring-color;
+}
+ .navbar-dark .fa-search {
+    margin-left: 25px;
+}   
+   .banner_left {
+    text-align: center;
+} 
+  .banner_left h3 {
+    font-size: 50px;
+}   
+.banner_left h1 {
+    font-size: 60px;
+}   
+.features_bottom h4 {
+    font-size: 17px;
+} 
+    .features_top p{
+        padding: 0 0;
+    }
+ #features {
+    padding: 20px 0px;
+}   
+.features_top {
+    margin-bottom: 30px;
+}    
+    .features_img img{
+        height: 140px;
+    }   
+.pt-5, .py-5 {
+    padding-top: 3.5rem!important;
+}    
+  .mt-5, .my-5 {
+    margin-top: 1rem!important;
+}  
+  .mt-4, .my-4 {
+    margin-top: 1rem!important;
+} 
+ #about_instacam {
+    padding: 30px 0;
+}   
+#queston {
+    padding: 20px 0 20px 0;
+}    
+ .about_form {
+    padding: 15px 15px;
+}   
+ .about_form a {
+    padding: 5px 195px;   
+ }
+  #product {
+    padding: 10px 0 20px 0;
+}  
+    
+ .product_top_text p {
+     margin-bottom: 10px;
+     padding: 0 0;
+}   
+    
+ .product_img img {
+    margin-bottom: 20px;
+}   
+.pt-sm-4, .py-sm-4 {
+    padding-top: -0rem!important;
+}    
+ .testimonial_top p {
+    margin-bottom: 10px;
+     padding: 0 0;
+}   
+.t_btn {
+    padding-top: 20px;
+}    
+ #testimonial {
+    margin-bottom: 40px;
+}   
+ .icon_text p {
+    font-size: 16px;
+}   
+ .features_bottom.active {
+    padding: 15px 15px;
+}   
+    
+    .t_b_text{
+        padding: 5px 15px;
+    }
+    
+    
+}
+
+/*mediam device*/
+@media(min-width:768px) and (max-width:991.98px){
+    
+    .navbar-dark .navbar-nav .nav-item {
+    padding-left: 0px;
+    padding-right: 12px;
+}
+ .navbar-dark .fa-search {
+    margin-left: 0px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+     
+     
+}   
+  .banner_left h1 {
+    font-size: 45px;
+}
+    .banner_left h3 {
+    font-size: 40px;
+}
+.banner_right img {
+    height: 475px;
+}
+    
+    .features_top p{
+        font-size: 14px;
+        padding: 0 0;
+    }    
+    
+    
+#features {
+    padding: 80px 0px;
+}
+ .features_bottom.active {
+    padding: 15px 15px;
+    }
+  .features_bottom p {
+    font-size: 12px;
+}  
+ .features_bottom h4 {
+    font-size: 14px;
+}   
+ .about_item {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    left: 0;
+}   
+#about_instacam {
+    padding: 30px 0;
+}    
+#queston {
+    padding: 50px 0 50px 0;
+}    
+ .card-header .btn.btn-link {
+    font-size: 11px;
+}   
+ .card-header .btn.btn-link.collapsed {
+    font-size: 11px;
+}  
+ .card-body {
+    font-size: 12px;
+}   
+ .about_form {
+    padding: 25px 15px;
+}   
+ .about_form h3 {
+    font-size: 20px;
+}   
+ .about_form a {
+    padding: 5px 45px;
+}   
+ 
+  .testimonial_top p {
+    margin-bottom: 20px;
+      padding: 0 0;
+}  
+ .t_b_text {
+    padding: 5px 5px;   
+    }
+    
+#testimonial {
+    margin-bottom: 40px;
+} 
+.footer_logo {
+    margin-bottom: 0px;
+}    
+ .features_img {
+    margin-top: 270px;
+}   
+.features_top {
+    margin-bottom: 30px;
+}
+  
+}
+
+/*larg device*/
+@media(min-width:992px) and (max-width:1199.98px){
+
+ .banner_left h1 {
+    font-size: 65px;
+} 
+
+    #features {
+    padding: 100px 0px;
+    }
+    .features_img {
+    margin-top: 70%;
+}
+ .pt-5, .py-5 {
+    padding-top: 3rem!important;
+}   
+.features_bottom p {
+    font-size: 14px;
+}
+.features_bottom h4 {
+    font-size: 20px;
+}
+ .features_bottom.active {
+    padding: 15px 15px;
+}   
+ #queston {
+    padding: 50px 0 50px 0;
+}   
+.card-header .btn.btn-link {
+    font-size: 15px;
+}
+.card-header .btn.btn-link.collapsed {
+    font-size: 15px;
+}    
+.about_form {
+    padding: 25px 15px;
+}    
+ .about_form h3 {
+    font-size: 30px;
+}   
+ .about_form a {
+     padding: 5px 85px;
+    }   
+    
+ .about_form p {
+    font-size: 17px;
+}   
+ .form-control {
+    margin-bottom: 42px;
+}   
+ 
+#product {
+    padding: 50px 0 50px 0;
+}    
+  .product_text h3 {
+    font-size: 20px;
+}  
+ .pd_btn a {
+    padding: 15px 45px;
+    font-size: 15px;
+}  
+ .p_r_text p {
+    font-size: 10px;
+}   
+ .testimonial_top p {
+    margin-bottom: 20px;
+}   
+ .t_b_text {
+    padding: 15px 15px;
+}   
+ #testimonial {
+    margin-bottom: 50px;
+}   
+
+ .contant_text_name {
+    margin-left: -40px;
+    margin-top: 15px;
+}   
+    
+ .contant_text p {
+    font-size: 13px;
+    margin-bottom: 20px;
+}   
+ .contant_text_pic {
+    margin-bottom: 10px;
+}
+.contant_text a {
+    font-size: 15px;
+    padding: 10px 15px;
+}   
+ .prev_post2 {
+    padding-top: 15px;
+}
+.contant_text h3 {
+    font-size: 14px;
+}    
+ .prev_post {
+    padding-top: 15px;
+}   
+#lastNews {
+    padding-bottom: 50px;
+}    
+ .icon_text p {
+    font-size: 10px;
+}   
+ .product_text {
+    padding: 7px;
+}   
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
